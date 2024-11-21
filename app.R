@@ -10,6 +10,7 @@
 
 # This is a test
 # This is another test
+# Test of branch for color change
 # Load required libraries
 library(readr)
 library(dplyr)
